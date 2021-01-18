@@ -215,7 +215,7 @@
     <header>
       <div class="header">
         <img src="logo.png" alt="logo" />
-        <h1>IRISI GRAPH COLORING</h1>
+        <h1>TEST GRAPH COLORING</h1>
       </div>
     </header>
   
